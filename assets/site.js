@@ -104,7 +104,7 @@
   }
 
   /* ---------- contact form -> Google Sheet ---------- */
-  var SHEET_URL = 'https://script.google.com/macros/s/AKfycbxCJ36j7GcjqYNZ6DnP4lDAnGN3lWszlipqCQ-NZTh2_LzL-b3Mw-_9TgbVD70TD0xe4w/exec';
+  var SHEET_URL = 'https://script.google.com/macros/s/AKfycbwJapnVUozgB_iT8usC_C2w8ITo7kjdRdLDk9uU22S2eUCAFSBlHXoTDw3YiSwQCcJ6/exec';
   var form = document.getElementById('contact-form');
   if (form) {
     var f = form.querySelectorAll('input, select, textarea');
